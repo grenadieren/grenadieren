@@ -1,4 +1,4 @@
-Hello, I'm Grenadieren/Razu
+Hello, I'm Grenadieren/Razu.
 I am interested in Operating Systems, Retro Computing, as well as Browsers.
 I'm currently learning Python, as well as web development.
 ###
